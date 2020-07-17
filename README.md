@@ -1,4 +1,4 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a469d2af-5f2e-4354-aa1e-5cc5a08a454c/IMG_20190529_185906.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a469d2af-5f2e-4354-aa1e-5cc5a08a454c/IMG_20190529_185906.jpg)
+![image](https://drive.google.com/uc?export=view&id=1_2IilYx2vOWlUZjxM7cfTCJczy5m3BN7)
 
 ## Hey there,
 
