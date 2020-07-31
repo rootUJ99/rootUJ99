@@ -3,9 +3,9 @@
 
 ### I'm a Software Engineer from Mumbai
 
-🤩 I primarily work on React who holds knowledge of Node and Django as well
+🤩 I primarily work on React, who holds knowledge of Node and Django as well
 
-🤓 I'm a Anime and Manga nerd, who loves to read Books and maybe sometimes sketching
+🤓 I'm a Anime and Manga nerd, who loves to read books and maybe sometimes likes to sketch too
 
 😋 I find open source quite fascinating looking forward to contribute in near future 
 
