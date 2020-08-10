@@ -5,7 +5,7 @@
 
 🤩 I primarily work on React, who holds knowledge of Node and Django as well
 
-🤓 I'm a Anime and Manga nerd, who loves to read books and maybe sometimes likes to sketch too
+🤓 I'm a Anime and Manga nerd, who love to read books and maybe sometimes likes to sketch as well
 
 😋 I find open source quite fascinating looking forward to contribute in near future 
 
