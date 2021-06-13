@@ -1,15 +1,11 @@
 
-## Hey there,
+## Hey geeks,
 
-### I'm a Software Engineer from Mumbai
+### I'm Ujwal, a Software Engineer from Mumbai
 
-🤩 I primarily work on React, who holds knowledge of Node and Django as well
+I work with react, node and django
 
-🤓 I'm a Anime and Manga nerd, who love to read books and maybe sometimes likes to sketch as well
-
-😋 I find open source quite fascinating looking forward to contribute in near future 
-
-🧐 Cross platform app devleopment with flutter and deep learning with tensorflow are some of my upcoming goals 
+🧾 Chekout my [Portfolio](https://rootuj99.github.io/)
 
 📫 Follow me on [Twitter](https://twitter.com/rootuj99) | [Instagram](https://www.instagram.com/rootuj) or reach me at ujwal99arak@gmail.com
 
