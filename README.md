@@ -11,4 +11,3 @@ I work with react, node and django
 
 Don't forget to check my projects down below ⬇️
 
-*PS I'm still in process hosting some of my projects*
