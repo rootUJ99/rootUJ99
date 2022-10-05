@@ -1,9 +1,9 @@
 
-## Hey geeks,
+## Hey geeks 🔭
 
-### I'm Ujwal, a Software Engineer from Mumbai
+### I'm Ujwal, a Software Engineer from Mumbai working in Bangalore
 
-I work with react, node and django
+I work with JavaScript primarily in react, with a hint of Python 
 
 🧾 Chekout my [Portfolio](https://rootuj99.github.io/)
 
